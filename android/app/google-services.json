@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706824732318",
+    "project_id": "teaaam-3b8e0",
+    "storage_bucket": "teaaam-3b8e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706824732318:android:7ee9088e9ac030a304c58f",
+        "android_client_info": {
+          "package_name": "com.example.hoper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706824732318-ojvcq9kc66id48rmafbv9e9ffm0cvh81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsvpqYm6rVeyetze2KvD8hX6PKviYCUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706824732318-ojvcq9kc66id48rmafbv9e9ffm0cvh81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
