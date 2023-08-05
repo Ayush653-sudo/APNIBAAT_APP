@@ -1,16 +1,13 @@
-# hoper
+# APNIBAAT
 
-A new Flutter project.
+A end to end chat app.
 
 ## Getting Started
+It has various functionality like sending images and docs and messages privately 
+Also, it could convert voice commands to text and could copy any message
 
-This project is a starting point for a Flutter application.
+###look at it's video demonstration 
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Ayush653-sudo/APNIBAAT_APP/assets/89296044/9f8831fb-767e-4d31-b268-2e9d1d160e56
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
