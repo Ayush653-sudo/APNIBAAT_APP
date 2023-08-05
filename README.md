@@ -2,7 +2,7 @@
 
 A end to end chat app.
 
-## Getting Started
+## DESCRIPTION
 It has various functionality like sending images and docs and messages privately 
 Also, it could convert voice commands to text and could copy any message 
 NO one can record your screen or capture screenshot while you were entering password
